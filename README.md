@@ -1,5 +1,4 @@
 # FEND Project - Restaurant Review App
----
 
 ## Table of Contents
 
@@ -12,7 +11,7 @@
 
 This is a project about restaurants and their reviews. The goal was to take a static design that lacks accessibility and convert it to be responsive on different sized displays and accessible for screen reader use and also add a service worker for offline experience for users. 
 
-### Run
+## Run
 
 1. Download the zip file or clone via Github.
 
